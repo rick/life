@@ -7,7 +7,7 @@ This repository contains information related to life.  Sup?
 
 These are a set of day templates designed to help me allocate my time to health-building practices that require a frequent and regular commitment to accomplish.  The specific activities I am making time for are:  meditation, yoga, rock climbing, and saramdan (a presumably mis-transliterated Hindi or Sanskrit term we picked up in Uttarakhand, it is essentially a regular, joint volunteer effort to make ones place of living better, typically involving outdoor manual labor).
 
-I notice that I tend to have varying pressures on my time, and these pressures result in me considering the different "types" of day I might be able to plan with.  So I've broken up the day plans into 5 distinct day types:
+I notice that I tend to have varying pressures on my time, and these pressures result in me considering the different "types" of day I might be able to plan with.  So I've broken up the day plans into 5 distinct day types (<a href="http://github.com/rick/life/raw/master/day-plans/day-plans.png">click for image</a>):
 
  * *A* - A normal day, where rock climbing is the featured morning activity.  Rock climbing is chosen for its physical benefits, for its benefits as a new practice to learn, and for the meditational benefits from directly engaging with my fear of heights.
  * *B* - A normal day, where saramdan is the featured morning activity.
