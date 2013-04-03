@@ -12,3 +12,7 @@ Art things I want to do more of:
  * D3 visualizations stuff: http://enja.org/
 
    
+
+
+ * :notes: / DJing 
+   * http://www.youtube.com/watch?v=1c0ByB7Jv8w
