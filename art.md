@@ -9,6 +9,6 @@ Art things I want to do more of:
    * http://www.leonardo.info/isast/journal/toclmj19.html
 
  * AndroSensor, bro:  https://play.google.com/store/apps/details?id=com.fivasim.androsensor&hl=en
-
+ * D3 visualizations stuff: http://enja.org/
 
    
