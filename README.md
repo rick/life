@@ -2,6 +2,8 @@
 
 This repository contains information related to life.  Sup?
 
+ * Stuff about [art](art.md)
+
 
 ## Day Plans
 
